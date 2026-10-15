@@ -1,2 +1,3 @@
 # ShortViper
-Stock screening and shorting API
+Stock screening and shorting Algorithm
+
