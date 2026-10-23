@@ -1,3 +1,3 @@
-# ShortViper
+# ShortKing
 Stock screening and shorting Algorithm
 
